@@ -1,0 +1,1 @@
+cara kerja indexing pada database cukup masukan kata atau unix code yang ingin dicari, nantinya database akan menyaring seluruh data yang berkaitan dengan inputan yang sesuai.

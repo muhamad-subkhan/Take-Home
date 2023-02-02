@@ -1,0 +1,1 @@
+Tujuan penggunaan microservices adalah untuk mempermudah proses dalam pembuatan aplikasi karena setiap fiturnya akan dipisah menjadi bagian-bagian kecil.
